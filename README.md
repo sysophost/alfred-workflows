@@ -10,12 +10,14 @@ Retrieves the battery level of a Bluetooth connected Magic Mouse and displays it
 Lock desktop and pause audio playback from Music (iTunes), ~~Podcasts~~ (thank you Apple), and Spotify.
 
 **Keyword:** `lock`
+
 **Key binding:** `cmd` key modifier locks without pausing playback.
 
 ## Play/Pause Music
 Pause and resume audio playback from Music (iTunes), ~~Podcasts~~ (thank you Apple), and Spotify.
 
 **Keywords:** `pause` and `resume`
+
 *`resume` will only offer currently running applications*
 
 ## Toggle Mute
@@ -24,4 +26,5 @@ If it is already at zero then it is set to 80%.
 A growl notification displays the microphone on/off state
 
 **Keyword:** `mute`
+
 **Key binding:** `cmd`+`shift`+`m`
