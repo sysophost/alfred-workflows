@@ -28,3 +28,9 @@ A growl notification displays the microphone on/off state
 **Keyword:** `mute`
 
 **Key binding:** `cmd`+`shift`+`m`
+
+## Set Volume
+Sets the output volume level to the provided value.
+If no value is provided then it defaults to 80%
+
+**Keyword:** `vol`
